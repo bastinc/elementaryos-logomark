@@ -1,4 +1,7 @@
 # elementaryos-logomark
-Logomark for Elementary OS
 
-Custom variant of Elementary OS logomark
+## Logomark for Elementary OS
+
+Custom variants of Elementary OS logomark:
+
+* dark variant
